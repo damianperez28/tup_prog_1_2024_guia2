@@ -1,0 +1,1 @@
+Se desea saber si el número ingresado es positivo, negativo o cero.

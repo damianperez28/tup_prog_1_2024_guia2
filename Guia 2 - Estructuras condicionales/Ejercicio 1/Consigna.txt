@@ -1,0 +1,1 @@
+Dadas las notas de 3 parciales, calcular el promedio y decir si promocionó (mayor o igual a 80) o rinde final.

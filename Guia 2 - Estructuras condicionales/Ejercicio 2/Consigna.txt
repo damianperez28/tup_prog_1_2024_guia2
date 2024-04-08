@@ -1,0 +1,1 @@
+Se necesita un algoritmo que informe si un número ingresado es PAR o IMPAR mediante un mensaje.
